@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":896,"scrollY":624},
+{"id":2,"expanded":true,"name":"Mundo 1","order":2,"parentId":0,"scrollX":816,"scrollY":1080},
+{"id":3,"expanded":false,"name":"Mundo 3","order":3,"parentId":0,"scrollX":3728,"scrollY":2440},
+{"id":4,"expanded":false,"name":"MAP004","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"Mundo 2","order":4,"parentId":0,"scrollX":2176,"scrollY":2364},
+{"id":6,"expanded":false,"name":"Ruinas antiguas","order":6,"parentId":0,"scrollX":1138,"scrollY":1296},
+{"id":7,"expanded":false,"name":"Sala de teletransporte","order":7,"parentId":0,"scrollX":838.8,"scrollY":549}
+]
