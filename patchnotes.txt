@@ -1,0 +1,5 @@
+Ver.1.0
+- Initial release!
+
+Ver.1.01
+- Mapa 1 mejorado
