@@ -3,3 +3,6 @@ Ver.1.0
 
 Ver.1.01
 - Mapa 1 mejorado
+
+Ver.1.02
+- Patchnotes actualizado
