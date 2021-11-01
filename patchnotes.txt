@@ -6,3 +6,6 @@ Ver.1.01
 
 Ver.1.02
 - Patchnotes actualizado
+
+Ver.1.03
+- Nuevo Objeto
