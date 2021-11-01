@@ -3,5 +3,5 @@
 <End of Version>
 
 <Version:1.02>
-/patchnotes.txt https://raw.githubusercontent.com/AkiraNakada/RPGDDEFINITIVOUpdates/main/patchnotes.txt
+/www/patchnotes.txt https://raw.githubusercontent.com/AkiraNakada/RPGDDEFINITIVOUpdates/main/patchnotes.txt
 <End of Version>
