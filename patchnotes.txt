@@ -9,3 +9,7 @@ Ver.1.02
 
 Ver.1.03
 - Nuevo Objeto
+
+Ver.1.1
+- Nuevo territorio 
+- Nuevas misiones
