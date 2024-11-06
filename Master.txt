@@ -4,6 +4,6 @@ data/Map001.json https://raw.githubusercontent.com/AkiraNakada/Project-Basado-Up
 <Version: 1.03>
 audio/se/Prueba.ogg https://sndup.net/mp6jk/d
 <End of Version>
-<Version: 1.04>
+<Version: 1.05>
 audio/se/Prueba2.ogg https://od.lk/d/NzlfNTIyMDYzOThf/youtube_CvWxFqS_lxI_audio.ogg
 <End of Version>
