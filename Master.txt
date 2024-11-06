@@ -2,5 +2,5 @@
 data/Map001.json https://raw.githubusercontent.com/AkiraNakada/Project-Basado-Updates/refs/heads/main/Map001.json
 <End of Version>
 <Version: 1.03>
-audio/se/Prueba.ogg https://github.com/AkiraNakada/Project-Basado-Updates/raw/refs/heads/main/youtube_CvWxFqS_lxI_audio.ogg
+audio/se/Prueba.ogg https://sndup.net/mp6jk/d
 <End of Version>
